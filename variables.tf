@@ -15,9 +15,9 @@ variable "proxmox_url" {
 }
 
 variable "proxmox_token_id" {
-    default = "terraform@pam!terraform_token_id"
+    default = "terraform@pam!terraform"
 }
 
 variable "proxmox_token_secret" {
-    default = "2049a417-90ed-4bb4-99a8-9934d2ea7062"
+    default = "73bc5d4e-638f-4b5b-890d-eb384f5bb47f"
 }
